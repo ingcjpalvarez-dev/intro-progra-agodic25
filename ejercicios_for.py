@@ -15,7 +15,6 @@ milista = ["Juli", 12, True, False, 32.124, [1, 2, 3], "Adiós"]
 for item in milista:
     print(f"{milista.index(item)}: {item}")
 
-
 print()
 
 A = {1, 2, 3, 4, 8}
